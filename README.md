@@ -39,8 +39,9 @@ This project documents the step-by-step process of setting up a functional cyber
 
 | Setup Stage                       | Screenshot |
 |----------------------------------|------------|
-| VMware & VM Network Configuration| ![VM Network](./Images/vm-network-setup.png) |
-| Sysmon Event Log Verification    | ![Sysmon Logs](./Images/sysmon-logs.png)     |
+| Ubuntu Static IP Configuration   | ![Ubuntu Static IP](./Images/ubuntu-static-ip.png) |
+| Sysmon Event Log Verification    | ![Sysmon Logs](./Images/sysmon-logs.png)           |
+
 
 ---
 
