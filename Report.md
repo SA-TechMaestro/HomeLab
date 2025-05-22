@@ -89,7 +89,8 @@ Sysmon64.exe -accepteula -i
 * Installed the sensor on the Windows VM
 * Verified telemetry reporting in the LimaCharlie dashboard
 
-![LimaCharlie Installed](./Images/limacharlie-installed.png)
+![LimaCharlie Installed](./Images/limacharlie-sensor-installed.png)  
+![LimaCharlie Installed](./Images/limacharlie-sensor-installed2.png)
 
 ---
 
